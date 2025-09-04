@@ -34,15 +34,13 @@ python fysus.py -o ./out
 ## Output
 ```
 ~/Desktop/PS_OUT/fysus_results.json
----------^^^^^^^
-PS_OUT or PowerShell_OUTPUT, you can change this by editing the ***def save_scan():*** function 
 ```
 just a short little project to learn a few basics for my python journey.
 
 ### possible future additions Roadmap
-___________________________________
-|Progress bar / live status output|
-|Multi-threaded hashing           |
-|Export results to CSV / HTML     |
-|Antivirus-style integrations     |
-___________________________________
+___________________________________\n
+|Progress bar / live status output|\n
+|Multi-threaded hashing           |\n
+|Export results to CSV / HTML     |\n
+|Antivirus-style integrations     |\n
+___________________________________\n
